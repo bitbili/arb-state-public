@@ -32,10 +32,10 @@
     "short_exchange": "Binance",
     "state": "HEDGED",
     "created_at": "2026-02-24T11:50:51.519206Z",
-    "updated_at": "2026-02-27T07:28:24.980578Z",
+    "updated_at": "2026-02-27T07:34:58.177128Z",
     "opened_at": "2026-02-24T11:50:54.164764Z",
     "closed_at": "2026-02-25T07:22:38.976167Z",
-    "desired_notional_usd": 513.89334,
+    "desired_notional_usd": 514.91070288,
     "long_entry_price": 0.028763,
     "short_entry_price": 0.028749945893,
     "long_quantity": 17406.0,
@@ -49,7 +49,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "live scan: hedged"
+    "note": "within tolerance"
   },
   {
     "key": "AZTEC/USDT|Hyperliquid|Binance",
@@ -396,10 +396,10 @@
     "short_exchange": "Binance",
     "state": "HEDGED",
     "created_at": "2026-02-24T14:36:15.006817Z",
-    "updated_at": "2026-02-27T07:28:25.259860Z",
+    "updated_at": "2026-02-27T07:34:58.372529Z",
     "opened_at": "2026-02-24T14:36:17.454027Z",
     "closed_at": "2026-02-25T05:12:48.175258Z",
-    "desired_notional_usd": 472.860822,
+    "desired_notional_usd": 473.92834,
     "long_entry_price": 0.020135,
     "short_entry_price": 0.0201039613527,
     "long_quantity": 24826.0,
@@ -413,7 +413,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "live scan: hedged"
+    "note": "within tolerance"
   },
   {
     "key": "FOGO/USDT|Binance|Lighter",
@@ -474,10 +474,10 @@
     "short_exchange": "Binance",
     "state": "HEDGED",
     "created_at": "2026-02-25T02:48:12.779954Z",
-    "updated_at": "2026-02-27T07:28:25.457215Z",
+    "updated_at": "2026-02-27T07:34:58.582557Z",
     "opened_at": "2026-02-25T02:48:15.254008Z",
     "closed_at": "",
-    "desired_notional_usd": 544.20094,
+    "desired_notional_usd": 546.34428,
     "long_entry_price": 0.0723,
     "short_entry_price": 0.0722273416256,
     "long_quantity": 6926.2,
@@ -491,7 +491,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "live scan: hedged"
+    "note": "within tolerance"
   },
   {
     "key": "EIGEN/USDT|Lighter|Hyperliquid",
@@ -552,10 +552,10 @@
     "short_exchange": "Binance",
     "state": "HEDGED",
     "created_at": "2026-02-25T05:22:51.779843Z",
-    "updated_at": "2026-02-27T07:28:25.679453Z",
+    "updated_at": "2026-02-27T07:34:58.806408Z",
     "opened_at": "2026-02-25T05:22:52.541883Z",
     "closed_at": "",
-    "desired_notional_usd": 534.02498054,
+    "desired_notional_usd": 535.00829863,
     "long_entry_price": 1.2811,
     "short_entry_price": 1.280395886889,
     "long_quantity": 390.61,
@@ -569,7 +569,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "live scan: hedged"
+    "note": "within tolerance"
   },
   {
     "key": "VVV/USDT|Hyperliquid|Binance",
@@ -630,24 +630,24 @@
     "short_exchange": "Hyperliquid",
     "state": "HEDGED",
     "created_at": "2026-02-25T09:03:56.114948Z",
-    "updated_at": "2026-02-27T07:28:26.208531Z",
+    "updated_at": "2026-02-27T07:34:59.314908Z",
     "opened_at": "2026-02-25T09:03:58.103791Z",
     "closed_at": "",
-    "desired_notional_usd": 535.74885,
+    "desired_notional_usd": 539.66934,
     "long_entry_price": 0.16179,
     "short_entry_price": 0.161891,
     "long_quantity": 3088.0,
     "short_quantity": 3087.0,
     "below_exit_since": "",
     "below_exit_rounds": 0,
-    "last_net_apr": 70.59103999999999,
-    "last_funding_spread": 70.99104,
+    "last_net_apr": 60.28927999999999,
+    "last_funding_spread": 60.68927999999999,
     "entry_baseline_net_apr": null,
     "entry_baseline_updated_at": "",
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "live scan: hedged"
+    "note": "within tolerance"
   },
   {
     "key": "VIRTUAL/USDT|Lighter|Binance",
@@ -708,10 +708,10 @@
     "short_exchange": "Binance",
     "state": "HEDGED",
     "created_at": "2026-02-25T10:55:31.334212Z",
-    "updated_at": "2026-02-27T07:28:26.701031Z",
+    "updated_at": "2026-02-27T07:34:59.944272Z",
     "opened_at": "2026-02-25T10:55:32.857088Z",
     "closed_at": "",
-    "desired_notional_usd": 499.234,
+    "desired_notional_usd": 502.5475,
     "long_entry_price": 0.045273,
     "short_entry_price": 0.0452307224989,
     "long_quantity": 11039.0,
@@ -725,7 +725,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "live scan: hedged"
+    "note": "within tolerance"
   },
   {
     "key": "LINEA/USDT|Lighter|Hyperliquid",
@@ -734,10 +734,10 @@
     "short_exchange": "Hyperliquid",
     "state": "HEDGED",
     "created_at": "2026-02-25T11:02:45.835901Z",
-    "updated_at": "2026-02-27T07:28:27.386412Z",
+    "updated_at": "2026-02-27T07:35:00.403074Z",
     "opened_at": "2026-02-25T11:02:49.672686Z",
     "closed_at": "",
-    "desired_notional_usd": 416.232432,
+    "desired_notional_usd": 417.532752,
     "long_entry_price": 0.003074,
     "short_entry_price": 0.003072,
     "long_quantity": 130250.0,
@@ -751,7 +751,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "live scan: hedged"
+    "note": "within tolerance"
   },
   {
     "key": "NEO/USDT|Hyperliquid|Binance",
@@ -812,10 +812,10 @@
     "short_exchange": "Hyperliquid",
     "state": "HEDGED",
     "created_at": "2026-02-25T17:07:23.693834Z",
-    "updated_at": "2026-02-27T07:28:27.836859Z",
+    "updated_at": "2026-02-27T07:35:00.840288Z",
     "opened_at": "2026-02-25T17:07:25.722610Z",
     "closed_at": "",
-    "desired_notional_usd": 466.052,
+    "desired_notional_usd": 467.392,
     "long_entry_price": 1.4812,
     "short_entry_price": 1.48398,
     "long_quantity": 337.89,
@@ -829,7 +829,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "live scan: hedged"
+    "note": "within tolerance"
   },
   {
     "key": "JTO/USDT|Lighter|Binance",
@@ -864,10 +864,10 @@
     "short_exchange": "Hyperliquid",
     "state": "HEDGED",
     "created_at": "2026-02-25T19:15:43.021800Z",
-    "updated_at": "2026-02-27T07:28:28.215578Z",
+    "updated_at": "2026-02-27T07:35:01.272758Z",
     "opened_at": "2026-02-25T19:15:45.615164Z",
     "closed_at": "",
-    "desired_notional_usd": 482.883232,
+    "desired_notional_usd": 483.30048,
     "long_entry_price": 0.070605,
     "short_entry_price": 0.070602,
     "long_quantity": 7149.0,
@@ -881,7 +881,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "live scan: hedged"
+    "note": "within tolerance"
   },
   {
     "key": "BIO/USDT|Hyperliquid|Binance",
@@ -916,10 +916,10 @@
     "short_exchange": "Hyperliquid",
     "state": "HEDGED",
     "created_at": "2026-02-25T20:32:32.170995Z",
-    "updated_at": "2026-02-27T07:28:28.700028Z",
+    "updated_at": "2026-02-27T07:35:02.007186Z",
     "opened_at": "2026-02-25T20:32:34.531959Z",
     "closed_at": "",
-    "desired_notional_usd": 490.765044,
+    "desired_notional_usd": 489.846126,
     "long_entry_price": 0.063564,
     "short_entry_price": 0.063665,
     "long_quantity": 7873.0,
@@ -933,7 +933,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "live scan: hedged"
+    "note": "within tolerance"
   },
   {
     "key": "DOT/USDT|Hyperliquid|Binance",
@@ -968,10 +968,10 @@
     "short_exchange": "Hyperliquid",
     "state": "HEDGED",
     "created_at": "2026-02-25T22:06:35.714735Z",
-    "updated_at": "2026-02-27T07:28:29.146627Z",
+    "updated_at": "2026-02-27T07:35:02.706706Z",
     "opened_at": "2026-02-25T22:06:37.686068Z",
     "closed_at": "",
-    "desired_notional_usd": 483.04536,
+    "desired_notional_usd": 483.97332,
     "long_entry_price": 0.11845,
     "short_entry_price": 0.11851,
     "long_quantity": 4224.5,
@@ -985,7 +985,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "live scan: hedged"
+    "note": "within tolerance"
   },
   {
     "key": "ATOM/USDT|Hyperliquid|Binance",
@@ -1020,10 +1020,10 @@
     "short_exchange": "Hyperliquid",
     "state": "HEDGED",
     "created_at": "2026-02-25T23:10:41.423217Z",
-    "updated_at": "2026-02-27T07:28:29.599674Z",
+    "updated_at": "2026-02-27T07:35:03.506031Z",
     "opened_at": "2026-02-25T23:10:43.284061Z",
     "closed_at": "",
-    "desired_notional_usd": 465.73643,
+    "desired_notional_usd": 467.35448,
     "long_entry_price": 0.32342,
     "short_entry_price": 0.323597,
     "long_quantity": 1547.1,
@@ -1037,7 +1037,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "live scan: hedged"
+    "note": "within tolerance"
   },
   {
     "key": "BERA/USDT|Lighter|Binance",
@@ -1046,10 +1046,10 @@
     "short_exchange": "Binance",
     "state": "HEDGED",
     "created_at": "2026-02-26T02:25:39.690710Z",
-    "updated_at": "2026-02-27T07:28:29.805651Z",
+    "updated_at": "2026-02-27T07:35:03.954618Z",
     "opened_at": "2026-02-26T02:25:40.482417Z",
     "closed_at": "",
-    "desired_notional_usd": 502.11594,
+    "desired_notional_usd": 502.3794,
     "long_entry_price": 0.62189,
     "short_entry_price": 0.6214999253639,
     "long_quantity": 804.0,
@@ -1063,7 +1063,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "live scan: hedged"
+    "note": "within tolerance"
   },
   {
     "key": "AERO/USDT|Hyperliquid|Lighter",
@@ -1176,18 +1176,18 @@
     "short_exchange": "Lighter",
     "state": "HEDGED",
     "created_at": "2026-02-27T05:13:50.589858Z",
-    "updated_at": "2026-02-27T07:28:30.124770Z",
+    "updated_at": "2026-02-27T07:33:25.373875Z",
     "opened_at": "2026-02-27T05:15:33.462640Z",
     "closed_at": "2026-02-27T05:20:58.509460Z",
-    "desired_notional_usd": 609.28746664,
+    "desired_notional_usd": 607.259676,
     "long_entry_price": 0.0365345562313,
     "short_entry_price": 0.036515,
     "long_quantity": 16403.0,
     "short_quantity": 16404.0,
     "below_exit_since": "",
     "below_exit_rounds": 0,
-    "last_net_apr": 63.174459999999954,
-    "last_funding_spread": 63.58445999999995,
+    "last_net_apr": 38.35518999999999,
+    "last_funding_spread": 38.76518999999999,
     "entry_baseline_net_apr": null,
     "entry_baseline_updated_at": "",
     "entry_stability_score": null,
