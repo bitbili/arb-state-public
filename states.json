@@ -32,7 +32,7 @@
     "short_exchange": "Binance",
     "state": "CLOSING",
     "created_at": "2026-02-24T11:50:51.519206Z",
-    "updated_at": "2026-02-28T00:29:58.532678Z",
+    "updated_at": "2026-02-28T00:35:00.428600Z",
     "opened_at": "2026-02-24T11:50:54.164764Z",
     "closed_at": "2026-02-25T07:22:38.976167Z",
     "desired_notional_usd": 474.84700131,
@@ -394,9 +394,9 @@
     "symbol": "ZORA/USDT",
     "long_exchange": "Lighter",
     "short_exchange": "Binance",
-    "state": "HEDGED",
+    "state": "CLOSING",
     "created_at": "2026-02-24T14:36:15.006817Z",
-    "updated_at": "2026-02-28T00:28:29.374469Z",
+    "updated_at": "2026-02-28T00:35:01.037637Z",
     "opened_at": "2026-02-24T14:36:17.454027Z",
     "closed_at": "2026-02-25T05:12:48.175258Z",
     "desired_notional_usd": 463.0049,
@@ -413,7 +413,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "within tolerance"
+    "note": "flatten started"
   },
   {
     "key": "FOGO/USDT|Binance|Lighter",
