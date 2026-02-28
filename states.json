@@ -32,7 +32,7 @@
     "short_exchange": "Binance",
     "state": "CLOSING",
     "created_at": "2026-02-24T11:50:51.519206Z",
-    "updated_at": "2026-02-28T00:35:00.428600Z",
+    "updated_at": "2026-02-28T00:39:59.825670Z",
     "opened_at": "2026-02-24T11:50:54.164764Z",
     "closed_at": "2026-02-25T07:22:38.976167Z",
     "desired_notional_usd": 474.84700131,
@@ -396,7 +396,7 @@
     "short_exchange": "Binance",
     "state": "CLOSING",
     "created_at": "2026-02-24T14:36:15.006817Z",
-    "updated_at": "2026-02-28T00:35:01.037637Z",
+    "updated_at": "2026-02-28T00:40:02.899591Z",
     "opened_at": "2026-02-24T14:36:17.454027Z",
     "closed_at": "2026-02-25T05:12:48.175258Z",
     "desired_notional_usd": 463.0049,
@@ -472,9 +472,9 @@
     "symbol": "2Z/USDT",
     "long_exchange": "Lighter",
     "short_exchange": "Binance",
-    "state": "HEDGED",
+    "state": "CLOSING",
     "created_at": "2026-02-25T02:48:12.779954Z",
-    "updated_at": "2026-02-28T00:28:29.582418Z",
+    "updated_at": "2026-02-28T00:38:15.770381Z",
     "opened_at": "2026-02-25T02:48:15.254008Z",
     "closed_at": "",
     "desired_notional_usd": 524.68112778,
@@ -491,7 +491,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "within tolerance"
+    "note": "flatten started"
   },
   {
     "key": "EIGEN/USDT|Lighter|Hyperliquid",
@@ -550,9 +550,9 @@
     "symbol": "AXS/USDT",
     "long_exchange": "Lighter",
     "short_exchange": "Binance",
-    "state": "HEDGED",
+    "state": "CLOSING",
     "created_at": "2026-02-25T05:22:51.779843Z",
-    "updated_at": "2026-02-28T00:28:29.805732Z",
+    "updated_at": "2026-02-28T00:38:15.987841Z",
     "opened_at": "2026-02-25T05:22:52.541883Z",
     "closed_at": "",
     "desired_notional_usd": 500.643,
@@ -569,7 +569,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "within tolerance"
+    "note": "flatten started"
   },
   {
     "key": "VVV/USDT|Hyperliquid|Binance",
@@ -628,11 +628,11 @@
     "symbol": "CC/USDT",
     "long_exchange": "Lighter",
     "short_exchange": "Hyperliquid",
-    "state": "HEDGED",
+    "state": "FLAT",
     "created_at": "2026-02-25T09:03:56.114948Z",
-    "updated_at": "2026-02-28T00:28:30.482631Z",
+    "updated_at": "2026-02-28T00:35:28.409733Z",
     "opened_at": "2026-02-25T09:03:58.103791Z",
-    "closed_at": "",
+    "closed_at": "2026-02-28T00:35:28.409733Z",
     "desired_notional_usd": 525.8864,
     "long_entry_price": 0.16179,
     "short_entry_price": 0.161891,
@@ -647,7 +647,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "within tolerance"
+    "note": "flatten success"
   },
   {
     "key": "VIRTUAL/USDT|Lighter|Binance",
@@ -732,9 +732,9 @@
     "symbol": "LINEA/USDT",
     "long_exchange": "Lighter",
     "short_exchange": "Hyperliquid",
-    "state": "HEDGED",
+    "state": "CLOSING",
     "created_at": "2026-02-25T11:02:45.835901Z",
-    "updated_at": "2026-02-28T00:28:31.066708Z",
+    "updated_at": "2026-02-28T00:38:16.273437Z",
     "opened_at": "2026-02-25T11:02:49.672686Z",
     "closed_at": "",
     "desired_notional_usd": 398.157984,
@@ -751,7 +751,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "within tolerance"
+    "note": "flatten started"
   },
   {
     "key": "NEO/USDT|Hyperliquid|Binance",
@@ -784,11 +784,11 @@
     "symbol": "VVV/USDT",
     "long_exchange": "Lighter",
     "short_exchange": "Binance",
-    "state": "HEDGED",
+    "state": "FLAT",
     "created_at": "2026-02-25T13:08:47.785101Z",
-    "updated_at": "2026-02-28T00:28:31.338173Z",
+    "updated_at": "2026-02-28T00:38:18.089806Z",
     "opened_at": "2026-02-25T13:08:48.567522Z",
-    "closed_at": "2026-02-27T13:17:32.691017Z",
+    "closed_at": "2026-02-28T00:38:18.089806Z",
     "desired_notional_usd": 567.0899,
     "long_entry_price": 4.9214,
     "short_entry_price": 4.907719359421,
@@ -803,18 +803,18 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "within tolerance"
+    "note": "flatten success"
   },
   {
     "key": "LIT/USDT|Lighter|Hyperliquid",
     "symbol": "LIT/USDT",
     "long_exchange": "Lighter",
     "short_exchange": "Hyperliquid",
-    "state": "HEDGED",
+    "state": "FLAT",
     "created_at": "2026-02-25T17:07:23.693834Z",
-    "updated_at": "2026-02-28T00:28:31.900243Z",
+    "updated_at": "2026-02-28T00:38:27.100999Z",
     "opened_at": "2026-02-25T17:07:25.722610Z",
-    "closed_at": "2026-02-27T14:10:15.536517Z",
+    "closed_at": "2026-02-28T00:38:27.100999Z",
     "desired_notional_usd": 5.695467,
     "long_entry_price": 1.3794,
     "short_entry_price": 1.483979,
@@ -829,7 +829,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "within tolerance"
+    "note": "flatten success"
   },
   {
     "key": "JTO/USDT|Lighter|Binance",
@@ -862,9 +862,9 @@
     "symbol": "SKY/USDT",
     "long_exchange": "Lighter",
     "short_exchange": "Hyperliquid",
-    "state": "HEDGED",
+    "state": "CLOSING",
     "created_at": "2026-02-25T19:15:43.021800Z",
-    "updated_at": "2026-02-28T00:28:32.221443Z",
+    "updated_at": "2026-02-28T00:38:27.102868Z",
     "opened_at": "2026-02-25T19:15:45.615164Z",
     "closed_at": "",
     "desired_notional_usd": 473.109728,
@@ -881,7 +881,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "within tolerance"
+    "note": "flatten started"
   },
   {
     "key": "BIO/USDT|Hyperliquid|Binance",
@@ -914,9 +914,9 @@
     "symbol": "RESOLV/USDT",
     "long_exchange": "Lighter",
     "short_exchange": "Hyperliquid",
-    "state": "HEDGED",
+    "state": "CLOSING",
     "created_at": "2026-02-25T20:32:32.170995Z",
-    "updated_at": "2026-02-28T00:28:32.721377Z",
+    "updated_at": "2026-02-28T00:38:34.081077Z",
     "opened_at": "2026-02-25T20:32:34.531959Z",
     "closed_at": "",
     "desired_notional_usd": 475.748196,
@@ -933,7 +933,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "within tolerance"
+    "note": "flatten started"
   },
   {
     "key": "DOT/USDT|Hyperliquid|Binance",
@@ -966,9 +966,9 @@
     "symbol": "WLFI/USDT",
     "long_exchange": "Lighter",
     "short_exchange": "Hyperliquid",
-    "state": "HEDGED",
+    "state": "REBALANCING",
     "created_at": "2026-02-25T22:06:35.714735Z",
-    "updated_at": "2026-02-28T00:28:33.244237Z",
+    "updated_at": "2026-02-28T00:38:41.686590Z",
     "opened_at": "2026-02-25T22:06:37.686068Z",
     "closed_at": "",
     "desired_notional_usd": 467.5653,
@@ -985,7 +985,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "within tolerance"
+    "note": "flatten not converged, protected mode"
   },
   {
     "key": "ATOM/USDT|Hyperliquid|Binance",
@@ -1018,9 +1018,9 @@
     "symbol": "APEX/USDT",
     "long_exchange": "Lighter",
     "short_exchange": "Hyperliquid",
-    "state": "HEDGED",
+    "state": "REBALANCING",
     "created_at": "2026-02-25T23:10:41.423217Z",
-    "updated_at": "2026-02-28T00:28:33.736213Z",
+    "updated_at": "2026-02-28T00:38:48.403359Z",
     "opened_at": "2026-02-25T23:10:43.284061Z",
     "closed_at": "",
     "desired_notional_usd": 459.01767,
@@ -1037,18 +1037,18 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "within tolerance"
+    "note": "flatten not converged, protected mode"
   },
   {
     "key": "BERA/USDT|Lighter|Binance",
     "symbol": "BERA/USDT",
     "long_exchange": "Lighter",
     "short_exchange": "Binance",
-    "state": "HEDGED",
+    "state": "FLAT",
     "created_at": "2026-02-26T02:25:39.690710Z",
-    "updated_at": "2026-02-28T00:28:33.948873Z",
+    "updated_at": "2026-02-28T00:38:55.452192Z",
     "opened_at": "2026-02-26T02:25:40.482417Z",
-    "closed_at": "",
+    "closed_at": "2026-02-28T00:38:55.452192Z",
     "desired_notional_usd": 473.8776,
     "long_entry_price": 0.62189,
     "short_entry_price": 0.6214999253639,
@@ -1063,7 +1063,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "within tolerance"
+    "note": "flatten success"
   },
   {
     "key": "AERO/USDT|Hyperliquid|Lighter",
@@ -1278,9 +1278,9 @@
     "symbol": "STABLE/USDT",
     "long_exchange": "Lighter",
     "short_exchange": "Hyperliquid",
-    "state": "HEDGED",
+    "state": "REBALANCING",
     "created_at": "2026-02-27T09:05:19.520902Z",
-    "updated_at": "2026-02-28T00:28:34.410009Z",
+    "updated_at": "2026-02-28T00:39:00.522194Z",
     "opened_at": "2026-02-27T09:07:02.811040Z",
     "closed_at": "2026-02-27T09:09:10.075170Z",
     "desired_notional_usd": 516.499256,
@@ -1297,7 +1297,7 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "within tolerance"
+    "note": "flatten not converged, protected mode"
   },
   {
     "key": "AZTEC/USDT|Lighter|Hyperliquid",
@@ -1356,9 +1356,9 @@
     "symbol": "DOT/USDT",
     "long_exchange": "Hyperliquid",
     "short_exchange": "Lighter",
-    "state": "HEDGED",
+    "state": "CLOSING",
     "created_at": "2026-02-27T19:07:44.098657Z",
-    "updated_at": "2026-02-28T00:02:13.511927Z",
+    "updated_at": "2026-02-28T00:39:00.523822Z",
     "opened_at": "2026-02-27T19:09:28.250167Z",
     "closed_at": "2026-02-27T19:11:36.630382Z",
     "desired_notional_usd": 593.88392,
@@ -1375,16 +1375,16 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "live scan: hedged"
+    "note": "flatten started"
   },
   {
     "key": "TIA/USDT|Hyperliquid|Lighter",
     "symbol": "TIA/USDT",
     "long_exchange": "Hyperliquid",
     "short_exchange": "Lighter",
-    "state": "HEDGED",
+    "state": "CLOSING",
     "created_at": "2026-02-27T19:11:38.195931Z",
-    "updated_at": "2026-02-28T00:28:35.080101Z",
+    "updated_at": "2026-02-28T00:39:12.868616Z",
     "opened_at": "2026-02-27T19:13:30.993883Z",
     "closed_at": "2026-02-27T19:22:17.093226Z",
     "desired_notional_usd": 499.479258,
@@ -1401,16 +1401,16 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "within tolerance"
+    "note": "flatten started"
   },
   {
     "key": "ICP/USDT|Hyperliquid|Lighter",
     "symbol": "ICP/USDT",
     "long_exchange": "Hyperliquid",
     "short_exchange": "Lighter",
-    "state": "HEDGED",
+    "state": "CLOSING",
     "created_at": "2026-02-27T22:08:27.785837Z",
-    "updated_at": "2026-02-28T00:28:35.534746Z",
+    "updated_at": "2026-02-28T00:39:18.471224Z",
     "opened_at": "2026-02-27T22:10:19.581258Z",
     "closed_at": "2026-02-27T22:12:29.464247Z",
     "desired_notional_usd": 595.4234,
@@ -1427,16 +1427,16 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "within tolerance"
+    "note": "flatten started"
   },
   {
     "key": "MON/USDT|Lighter|Binance",
     "symbol": "MON/USDT",
     "long_exchange": "Lighter",
     "short_exchange": "Binance",
-    "state": "HEDGED",
+    "state": "CLOSING",
     "created_at": "2026-02-27T22:10:29.911880Z",
-    "updated_at": "2026-02-28T00:28:35.749437Z",
+    "updated_at": "2026-02-28T00:39:24.349579Z",
     "opened_at": "2026-02-27T22:12:09.501911Z",
     "closed_at": "2026-02-27T22:17:48.897053Z",
     "desired_notional_usd": 604.97406,
@@ -1453,16 +1453,16 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "within tolerance"
+    "note": "flatten started"
   },
   {
     "key": "AZTEC/USDT|Lighter|Binance",
     "symbol": "AZTEC/USDT",
     "long_exchange": "Lighter",
     "short_exchange": "Binance",
-    "state": "HEDGED",
+    "state": "CLOSING",
     "created_at": "2026-02-27T23:20:03.631399Z",
-    "updated_at": "2026-02-28T00:28:35.968951Z",
+    "updated_at": "2026-02-28T00:39:30.119654Z",
     "opened_at": "2026-02-27T23:21:45.505422Z",
     "closed_at": "2026-02-27T23:33:51.464070Z",
     "desired_notional_usd": 589.735608,
@@ -1479,16 +1479,16 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "within tolerance"
+    "note": "flatten started"
   },
   {
     "key": "PENDLE/USDT|Lighter|Binance",
     "symbol": "PENDLE/USDT",
     "long_exchange": "Lighter",
     "short_exchange": "Binance",
-    "state": "HEDGED",
+    "state": "CLOSING",
     "created_at": "2026-02-28T00:16:19.131739Z",
-    "updated_at": "2026-02-28T00:28:36.190274Z",
+    "updated_at": "2026-02-28T00:39:35.803727Z",
     "opened_at": "2026-02-28T00:17:59.651034Z",
     "closed_at": "2026-02-28T00:23:28.848237Z",
     "desired_notional_usd": 597.03182028,
@@ -1505,6 +1505,6 @@
     "entry_stability_score": null,
     "reversal_signal_rounds": 0,
     "reversal_last_delta_apr": 0.0,
-    "note": "within tolerance"
+    "note": "flatten started"
   }
 ]
